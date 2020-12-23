@@ -2,6 +2,6 @@
 This git includes a presentation matertial of Embrace the future: with AI x Robotics Conference (2020), "RL based NPU Design". The topic of acceleration includes `NPU`, `Reinforce Learning`, `SoC Design`.
 
 	Presenter: Constant Park (sonicstage12@naver.com)  
-	PPT: https://github.com/ConstantPark/SOSCON_2020/blob/main/SOSCON.pdf
-	Video: https://youtu.be/gEVaCDQ2CZI
-	Web Page: https://www.soscon.net/Session/Section/04
+	PPT: https://github.com/ConstantPark/AI_Rototics_Conference/blob/main/RN%20based%20NPU%20Design.pdf
+	Video: Comming Soon
+	Web Page: Comming Soon
